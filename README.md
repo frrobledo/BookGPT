@@ -22,8 +22,8 @@ This project implements a document question-answering system that allows users t
 
 1. Clone this repository:
 ```bash
-git clone <repository-url>
-cd <repository-name>
+git clone https://github.com/frrobledo/BookGPT.git
+cd BookGPT
 ```
 
 2. Install the required packages:
